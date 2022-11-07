@@ -54,6 +54,7 @@ public class MainActivity extends AppCompatActivity {
         WebSettings webSettings = myWebView.getSettings();
         webSettings.setJavaScriptEnabled(true);
 
+//      Pass your website/webapp link or any url in parameters
         webView.loadUrl("https://dpaste20.github.io/Android/");
 
 
