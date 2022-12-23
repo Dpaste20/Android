@@ -1,2 +1,2 @@
-# Currency convetor web app
+# Currency convertor web app
 Android Web Application
